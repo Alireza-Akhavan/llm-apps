@@ -1,4 +1,4 @@
-# streamlit run 04_Gemma_simple_UI.py
+# streamlit run 02_05_Gemma_simple_UI.py
 import streamlit as st
 from litellm import completion
 from dotenv import load_dotenv
